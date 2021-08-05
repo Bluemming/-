@@ -1,5 +1,4 @@
-# -
-부스트코스 '데이터 시각화를 위한 태블로'
+# 부스트코스 '데이터 시각화를 위한 태블로'
 
 🔗 URL : https://www.boostcourse.org/ds121/joinLectures/286344
 
